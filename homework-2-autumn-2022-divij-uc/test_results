@@ -1,0 +1,491 @@
+Tue 25 Oct 2022 11:07:27 PM CDT
+serial run 1: n=3000
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+iteration:21
+iteration:22
+iteration:23
+iteration:24
+iteration:25
+iteration:26
+iteration:27
+iteration:28
+iteration:29
+iteration:30
+iteration:31
+iteration:32
+iteration:33
+iteration:34
+iteration:35
+iteration:36
+iteration:37
+iteration:38
+iteration:39
+iteration:40
+iteration:41
+iteration:42
+iteration:43
+iteration:44
+iteration:45
+iteration:46
+iteration:47
+iteration:48
+iteration:49
+iteration:50
+iteration:51
+iteration:52
+iteration:53
+iteration:54
+iteration:55
+iteration:56
+iteration:57
+iteration:58
+iteration:59
+iteration:60
+iteration:61
+iteration:62
+iteration:63
+iteration:64
+iteration:65
+iteration:66
+iteration:67
+iteration:68
+iteration:69
+iteration:70
+iteration:71
+iteration:72
+iteration:73
+iteration:74
+iteration:75
+iteration:76
+iteration:77
+iteration:78
+iteration:79
+iteration:80
+iteration:81
+iteration:82
+iteration:83
+iteration:84
+iteration:85
+iteration:86
+iteration:87
+iteration:88
+iteration:89
+iteration:90
+iteration:91
+iteration:92
+iteration:93
+iteration:94
+iteration:95
+iteration:96
+iteration:97
+iteration:98
+iteration:99
+iteration:100
+iteration:101
+iteration:102
+iteration:103
+iteration:104
+iteration:105
+iteration:106
+iteration:107
+iteration:108
+iteration:109
+iteration:110
+iteration:111
+iteration:112
+iteration:113
+iteration:114
+iteration:115
+iteration:116
+iteration:117
+iteration:118
+iteration:119
+iteration:120
+iteration:121
+iteration:122
+iteration:123
+iteration:124
+iteration:125
+iteration:126
+iteration:127
+iteration:128
+iteration:129
+iteration:130
+iteration:131
+iteration:132
+iteration:133
+iteration:134
+iteration:135
+iteration:136
+iteration:137
+iteration:138
+iteration:139
+iteration:140
+iteration:141
+iteration:142
+iteration:143
+iteration:144
+iteration:145
+iteration:146
+iteration:147
+iteration:148
+iteration:149
+iteration:150
+iteration:151
+iteration:152
+iteration:153
+iteration:154
+iteration:155
+iteration:156
+iteration:157
+iteration:158
+iteration:159
+iteration:160
+iteration:161
+iteration:162
+iteration:163
+iteration:164
+iteration:165
+iteration:166
+iteration:167
+iteration:168
+iteration:169
+iteration:170
+iteration:171
+iteration:172
+iteration:173
+iteration:174
+iteration:175
+iteration:176
+iteration:177
+iteration:178
+iteration:179
+iteration:180
+iteration:181
+iteration:182
+iteration:183
+iteration:184
+iteration:185
+iteration:186
+iteration:187
+iteration:188
+iteration:189
+iteration:190
+iteration:191
+iteration:192
+iteration:193
+iteration:194
+iteration:195
+iteration:196
+iteration:197
+iteration:198
+iteration:199
+iteration:200
+avgTime: 0.492922   totTime: 98.091514 
+Tue 25 Oct 2022 11:11:02 PM CDT
+pthreads run 1: n=3000 threads=2
+avgTime: 0.313439   totTime: 62.374434 
+check succeeded!
+Tue 25 Oct 2022 11:20:08 PM CDT
+serial run 1: n=3000
+avgTime: 0.502219   totTime: 99.941638 
+serial run 2: n=3000
+avgTime: 0.476447   totTime: 94.812855 
+serial run 3: n=3000
+avgTime: 0.501876   totTime: 99.873310 
+serial run 4: n=3000
+avgTime: 0.506671   totTime: 100.827574 
+serial run 5: n=3000
+avgTime: 0.488371   totTime: 97.185865 
+pthreads run 1: n=3000 threads=1
+avgTime: 0.519790   totTime: 103.438138     check succeeded!
+pthreads run 2: n=3000 threads=1
+avgTime: 0.530283   totTime: 105.526366     check succeeded!
+pthreads run 3: n=3000 threads=1
+avgTime: 0.518947   totTime: 103.270477     check succeeded!
+pthreads run 4: n=3000 threads=1
+avgTime: 0.513087   totTime: 102.104400     check succeeded!
+pthreads run 5: n=3000 threads=1
+avgTime: 0.575327   totTime: 114.490026     check succeeded!
+pthreads run 1: n=3000 threads=2
+avgTime: 0.324092   totTime: 64.494341     check succeeded!
+pthreads run 2: n=3000 threads=2
+avgTime: 0.323726   totTime: 64.421455     check succeeded!
+pthreads run 3: n=3000 threads=2
+avgTime: 0.307803   totTime: 61.252864     check succeeded!
+pthreads run 4: n=3000 threads=2
+avgTime: 0.305104   totTime: 60.715762     check succeeded!
+pthreads run 5: n=3000 threads=2
+avgTime: 0.307144   totTime: 61.121694     check succeeded!
+pthreads run 1: n=3000 threads=4
+avgTime: 0.192601   totTime: 38.327632     check succeeded!
+pthreads run 2: n=3000 threads=4
+avgTime: 0.194837   totTime: 38.772629     check succeeded!
+pthreads run 3: n=3000 threads=4
+avgTime: 0.189001   totTime: 37.611270     check succeeded!
+pthreads run 4: n=3000 threads=4
+avgTime: 0.211758   totTime: 42.139822     check succeeded!
+pthreads run 5: n=3000 threads=4
+avgTime: 0.208607   totTime: 41.512866     check succeeded!
+pthreads run 1: n=3000 threads=8
+avgTime: 0.136186   totTime: 27.101023     check succeeded!
+pthreads run 2: n=3000 threads=8
+avgTime: 0.137239   totTime: 27.310656     check succeeded!
+pthreads run 3: n=3000 threads=8
+avgTime: 0.146470   totTime: 29.147595     check succeeded!
+pthreads run 4: n=3000 threads=8
+avgTime: 0.134561   totTime: 26.777590     check succeeded!
+pthreads run 5: n=3000 threads=8
+avgTime: 0.141011   totTime: 28.061191     check succeeded!
+pthreads run 1: n=3000 threads=16
+avgTime: 0.103731   totTime: 20.642404     check succeeded!
+pthreads run 2: n=3000 threads=16
+avgTime: 0.104710   totTime: 20.837341     check succeeded!
+pthreads run 3: n=3000 threads=16
+avgTime: 0.112031   totTime: 22.294246     check succeeded!
+pthreads run 4: n=3000 threads=16
+avgTime: 0.113368   totTime: 22.560328     check succeeded!
+pthreads run 5: n=3000 threads=16
+avgTime: 0.119506   totTime: 23.781695     check succeeded!
+omp run 1: n=3000 threads=1
+avgTime: 0.511807   totTime: 101.849631     check succeeded!
+omp run 2: n=3000 threads=1
+avgTime: 0.483894   totTime: 96.295001     check succeeded!
+omp run 3: n=3000 threads=1
+avgTime: 0.496201   totTime: 98.744006     check succeeded!
+omp run 4: n=3000 threads=1
+avgTime: 0.501933   totTime: 99.884615     check succeeded!
+omp run 5: n=3000 threads=1
+avgTime: 0.503957   totTime: 100.287435     check succeeded!
+omp run 1: n=3000 threads=2
+avgTime: 0.250516   totTime: 49.852720     check succeeded!
+omp run 2: n=3000 threads=2
+avgTime: 0.248827   totTime: 49.516656     check succeeded!
+omp run 3: n=3000 threads=2
+avgTime: 0.247342   totTime: 49.220977     check succeeded!
+omp run 4: n=3000 threads=2
+avgTime: 0.265487   totTime: 52.831933     check succeeded!
+omp run 5: n=3000 threads=2
+avgTime: 0.271634   totTime: 54.055107     check succeeded!
+omp run 1: n=3000 threads=4
+avgTime: 0.156552   totTime: 31.153861     check succeeded!
+omp run 2: n=3000 threads=4
+avgTime: 0.156335   totTime: 31.110580     check succeeded!
+omp run 3: n=3000 threads=4
+avgTime: 0.142924   totTime: 28.441804     check succeeded!
+omp run 4: n=3000 threads=4
+avgTime: 0.150470   totTime: 29.943606     check succeeded!
+omp run 5: n=3000 threads=4
+avgTime: 0.151848   totTime: 30.217699     check succeeded!
+omp run 1: n=3000 threads=8
+avgTime: 0.092476   totTime: 18.402637     check succeeded!
+omp run 2: n=3000 threads=8
+avgTime: 0.105852   totTime: 21.064545     check succeeded!
+omp run 3: n=3000 threads=8
+avgTime: 0.098134   totTime: 19.528713     check succeeded!
+omp run 4: n=3000 threads=8
+avgTime: 0.104030   totTime: 20.701901     check succeeded!
+omp run 5: n=3000 threads=8
+avgTime: 0.095740   totTime: 19.052188     check succeeded!
+omp run 1: n=3000 threads=16
+avgTime: 0.091161   totTime: 18.140996     check succeeded!
+omp run 2: n=3000 threads=16
+avgTime: 0.087830   totTime: 17.478109     check succeeded!
+omp run 3: n=3000 threads=16
+avgTime: 0.082017   totTime: 16.321340     check succeeded!
+omp run 4: n=3000 threads=16
+avgTime: 0.081170   totTime: 16.152887     check succeeded!
+omp run 5: n=3000 threads=16
+avgTime: 0.078492   totTime: 15.619830     check succeeded!
+Wed 26 Oct 2022 01:36:50 PM CDT
+omp run 1: n=3000 threads=16
+avgTime: 0.084025   totTime: 16.720996     check succeeded!
+omp run 2: n=3000 threads=16
+avgTime: 0.096744   totTime: 19.251959     check succeeded!
+omp run 3: n=3000 threads=16
+avgTime: 0.080446   totTime: 16.008848     check succeeded!
+omp run 4: n=3000 threads=16
+avgTime: 0.086655   totTime: 17.244386     check succeeded!
+omp run 5: n=3000 threads=16
+avgTime: 0.081180   totTime: 16.154863     check succeeded!
+Wed 26 Oct 2022 01:41:05 PM CDT
+omp run 1: n=3000 threads=16
+avgTime: 0.082581   totTime: 16.433668     check succeeded!
+omp run 2: n=3000 threads=16
+avgTime: 0.096686   totTime: 19.240489     check succeeded!
+omp run 3: n=3000 threads=16
+avgTime: 0.080896   totTime: 16.098358     check succeeded!
+omp run 4: n=3000 threads=16
+Wed 26 Oct 2022 01:42:43 PM CDT
+omp run 1: n=3000 threads=16
+Wed 26 Oct 2022 01:43:19 PM CDT
+omp run 1: n=3000 threads=16
+Wed 26 Oct 2022 02:02:16 PM CDT
+omp run 1: n=3000 threads=16
+avgTime: 0.078337   totTime: 15.589057     check succeeded!
+omp run 2: n=3000 threads=16
+avgTime: 0.079708   totTime: 15.861924     check succeeded!
+omp run 3: n=3000 threads=16
+avgTime: 0.084332   totTime: 16.782035     check succeeded!
+omp run 4: n=3000 threads=16
+avgTime: 0.079007   totTime: 15.722380     check succeeded!
+omp run 5: n=3000 threads=16
+avgTime: 0.080764   totTime: 16.072094     check succeeded!
+omp run 1: n=3000 threads=32
+avgTime: 0.066529   totTime: 13.239231     check succeeded!
+omp run 2: n=3000 threads=32
+avgTime: 0.061876   totTime: 12.313340     check succeeded!
+omp run 3: n=3000 threads=32
+avgTime: 0.069365   totTime: 13.803678     check succeeded!
+omp run 4: n=3000 threads=32
+avgTime: 0.063559   totTime: 12.648329     check succeeded!
+omp run 5: n=3000 threads=32
+avgTime: 0.078900   totTime: 15.701186     check succeeded!
+omp run 1: n=3000 threads=64
+avgTime: 0.061103   totTime: 12.159554     check succeeded!
+omp run 2: n=3000 threads=64
+avgTime: 0.053132   totTime: 10.573336     check succeeded!
+omp run 3: n=3000 threads=64
+avgTime: 0.056598   totTime: 11.263025     check succeeded!
+omp run 4: n=3000 threads=64
+avgTime: 0.054024   totTime: 10.750836     check succeeded!
+omp run 5: n=3000 threads=64
+avgTime: 0.054499   totTime: 10.845272     check succeeded!
+omp run 1: n=3000 threads=128
+avgTime: 0.045175   totTime: 8.989919     check succeeded!
+omp run 2: n=3000 threads=128
+avgTime: 0.043249   totTime: 8.606571     check succeeded!
+omp run 3: n=3000 threads=128
+avgTime: 0.047928   totTime: 9.537660     check succeeded!
+omp run 4: n=3000 threads=128
+avgTime: 0.045070   totTime: 8.968930     check succeeded!
+omp run 5: n=3000 threads=128
+avgTime: 0.044297   totTime: 8.815042     check succeeded!
+Wed 26 Oct 2022 02:45:59 PM CDT
+pthreads run 1: n=3000 threads=32
+pthreads run 2: n=3000 threads=32
+pthreads run 3: n=3000 threads=32
+pthreads run 4: n=3000 threads=32
+pthreads run 5: n=3000 threads=32
+pthreads run 1: n=3000 threads=64
+pthreads run 2: n=3000 threads=64
+pthreads run 3: n=3000 threads=64
+pthreads run 4: n=3000 threads=64
+pthreads run 5: n=3000 threads=64
+pthreads run 1: n=3000 threads=128
+pthreads run 2: n=3000 threads=128
+pthreads run 3: n=3000 threads=128
+pthreads run 4: n=3000 threads=128
+pthreads run 5: n=3000 threads=128
+Wed 26 Oct 2022 02:50:17 PM CDT
+pthreads run 1: n=3000 threads=32
+avgTime: 0.109720   totTime: 21.834373     check succeeded!
+pthreads run 2: n=3000 threads=32
+avgTime: 0.120640   totTime: 24.007443     check succeeded!
+pthreads run 3: n=3000 threads=32
+avgTime: 0.108502   totTime: 21.591988     check succeeded!
+pthreads run 4: n=3000 threads=32
+avgTime: 0.110883   totTime: 22.065681     check succeeded!
+pthreads run 5: n=3000 threads=32
+avgTime: 0.111803   totTime: 22.248852     check succeeded!
+pthreads run 1: n=3000 threads=64
+avgTime: 0.101203   totTime: 20.139328     check succeeded!
+pthreads run 2: n=3000 threads=64
+avgTime: 0.096598   totTime: 19.223069     check succeeded!
+pthreads run 3: n=3000 threads=64
+avgTime: 0.093041   totTime: 18.515090     check succeeded!
+pthreads run 4: n=3000 threads=64
+avgTime: 0.101236   totTime: 20.146014     check succeeded!
+pthreads run 5: n=3000 threads=64
+avgTime: 0.095870   totTime: 19.078134     check succeeded!
+pthreads run 1: n=3000 threads=128
+avgTime: 0.093137   totTime: 18.534212     check succeeded!
+pthreads run 2: n=3000 threads=128
+avgTime: 0.104354   totTime: 20.766497     check succeeded!
+pthreads run 3: n=3000 threads=128
+avgTime: 0.105555   totTime: 21.005454     check succeeded!
+pthreads run 4: n=3000 threads=128
+avgTime: 0.107356   totTime: 21.363837     check succeeded!
+pthreads run 5: n=3000 threads=128
+avgTime: 0.108434   totTime: 21.578352     check succeeded!
+Wed 26 Oct 2022 03:16:25 PM CDT
+pthreads run 1: n=3000 threads=32
+avgTime: 0.102345   totTime: 20.366593     check succeeded!
+pthreads run 2: n=3000 threads=32
+avgTime: 0.116822   totTime: 23.247530     check succeeded!
+pthreads run 3: n=3000 threads=32
+avgTime: 0.108443   totTime: 21.580177     check succeeded!
+pthreads run 4: n=3000 threads=32
+avgTime: 0.106463   totTime: 21.186117     check succeeded!
+pthreads run 5: n=3000 threads=32
+avgTime: 0.104320   totTime: 20.759733     check succeeded!
+pthreads run 1: n=3000 threads=64
+avgTime: 0.101464   totTime: 20.191368     check succeeded!
+pthreads run 2: n=3000 threads=64
+avgTime: 0.109610   totTime: 21.812346     check succeeded!
+pthreads run 3: n=3000 threads=64
+avgTime: 0.103456   totTime: 20.587745     check succeeded!
+pthreads run 4: n=3000 threads=64
+avgTime: 0.103934   totTime: 20.682961     check succeeded!
+pthreads run 5: n=3000 threads=64
+avgTime: 0.099576   totTime: 19.815600     check succeeded!
+pthreads run 1: n=3000 threads=128
+avgTime: 0.108837   totTime: 21.658572     check succeeded!
+pthreads run 2: n=3000 threads=128
+avgTime: 0.102465   totTime: 20.390602     check succeeded!
+pthreads run 3: n=3000 threads=128
+avgTime: 0.104704   totTime: 20.836167     check succeeded!
+pthreads run 4: n=3000 threads=128
+avgTime: 0.111292   totTime: 22.147169     check succeeded!
+pthreads run 5: n=3000 threads=128
+avgTime: 0.103645   totTime: 20.625381     check succeeded!
+Wed 26 Oct 2022 03:30:18 PM CDT
+pthreads run 1: n=3000 threads=32
+avgTime: 0.107032   totTime: 21.299463     check succeeded!
+pthreads run 2: n=3000 threads=32
+avgTime: 0.112185   totTime: 22.324907     check succeeded!
+pthreads run 3: n=3000 threads=32
+avgTime: 0.111241   totTime: 22.136953     check succeeded!
+pthreads run 4: n=3000 threads=32
+avgTime: 0.105910   totTime: 21.076083     check succeeded!
+pthreads run 5: n=3000 threads=32
+avgTime: 0.100207   totTime: 19.941254     check succeeded!
+pthreads run 1: n=3000 threads=64
+avgTime: 0.098949   totTime: 19.690801     check succeeded!
+pthreads run 2: n=3000 threads=64
+avgTime: 0.105662   totTime: 21.026795     check succeeded!
+pthreads run 3: n=3000 threads=64
+avgTime: 0.101328   totTime: 20.164223     check succeeded!
+pthreads run 4: n=3000 threads=64
+avgTime: 0.099647   totTime: 19.829757     check succeeded!
+pthreads run 5: n=3000 threads=64
+avgTime: 0.098359   totTime: 19.573431     check succeeded!
+pthreads run 1: n=3000 threads=128
+avgTime: 0.101148   totTime: 20.128537     check succeeded!
+pthreads run 2: n=3000 threads=128
+avgTime: 0.100133   totTime: 19.926396     check succeeded!
+pthreads run 3: n=3000 threads=128
+avgTime: 0.100571   totTime: 20.013600     check succeeded!
+pthreads run 4: n=3000 threads=128
+avgTime: 0.097399   totTime: 19.382404     check succeeded!
+pthreads run 5: n=3000 threads=128
+avgTime: 0.108039   totTime: 21.499792     check succeeded!
